@@ -7,6 +7,55 @@
     box-shadow: 0px 0px 40px 12px rgba(107, 72, 24, 0.952);
 
 }
+#boxEnergetica{
+    display: flex;
+    border-radius:0 100px;
+    width: 200px; height: 200px; 
+    background: rgba(214,7,127,1);
+    background: linear-gradient(141deg, rgba(214,7,127,1) 15%,rgb(172, 122, 144) 80%, rgb(226, 171, 196) 100%);
+}
+#boxMental{
+    border-radius: 100px 0;
+    width: 200px; height: 200px; 
+    background: rgba(190,201,184,1);
+    background: linear-gradient(227deg, rgb(163, 129, 17) 15%,rgb(224, 177, 22) 80%, rgb(255, 210, 62)  100%);
+}
+#boxFisica{
+    border-radius: 100px 0;
+    width: 200px; height: 200px; 
+    background: rgba(78,166,14,1);
+    background: linear-gradient(42deg, rgba(78,166,14,1) 15%,rgba(100, 211, 21) 80%, rgba(146,203,46,1) 100%);
+}
+#boxEmocional{
+    border-radius: 0 100px;
+    width: 200px; height: 200px; 
+    background: #11C4F7;
+    background: linear-gradient(304deg, rgba(13,120,199,1) 15%, rgba(17,196,247,1) 80%, rgb(115, 193, 214) 100%);
+}
+.planes-human-children{
+    display: flex;
+    width: 100%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    color: #F8F7F2;
+}
+
+@media screen and (max-width:540px){
+    #boxEnergetica{
+        width: 150px; height: 150px; 
+    } 
+    #boxMental{
+        width: 150px; height: 150px; 
+    } 
+    #boxFisica{
+        width: 150px; height: 150px; 
+    } 
+    #boxEmocional{
+        width: 150px; height: 150px; 
+    } 
+    
+}
 
 
 #boxEne{ 
