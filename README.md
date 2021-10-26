@@ -1,0 +1,1 @@
+Plantilla del proyecto de equilivra
