@@ -1,0 +1,51 @@
+.footer-base{
+    background-image: url(/assets/imagenes-scroll/scroll8.png);
+    background-color: rgb(141, 226, 107);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+
+
+.contain-scroll1{
+    border: 2px solid red;
+    
+}
+            .scroll11{
+                margin-left: -50px;
+        }
+.contain-scroll2{
+    border: 2px solid red;
+    width: 1000px;
+    margin-top: -95px;
+    margin-left: 280px;
+
+    background-color: rgb(27, 26, 26);
+}
+            .scroll21{
+            border: 2px solid red;
+            margin-left: -80px;
+            
+        }
+            .scroll22{
+            border: 2px solid red;
+            margin-top: -80px;
+            margin-left: 130px;
+        }
+            .scroll23{
+            border: 2px solid red;
+            margin-top: -80px;
+            margin-left: 340px;
+        }
+            .scroll24{
+            border: 2px solid red;
+            margin-top: -80px;
+            margin-left:550px;
+        }
+.contain-scroll3{
+    border: 2px solid red;
+    padding: 10px;
+}
+.contain-scroll4{
+    border: 2px solid red;
+    padding: 10px;
+}
